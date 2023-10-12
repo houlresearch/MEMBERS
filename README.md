@@ -28,6 +28,7 @@ Class of 2021.
 ![Zichu Fu](https://raw.githubusercontent.com/houlresearch/Tests/main/fuzichu.jpg)  
 [Zichu Fu](https://github.com/houlresearch/Tests/blob/main/ZICHU%20FU.md)  
 Class of 2021.  
+I'm interested in developing statistical machine learning and deep learning methods to analyze biomedical datasets including CRISPR-screening, single-cell multi-omics and logitudinal data.  
 ---
 ![Qifan Zhang](https://raw.githubusercontent.com/houlresearch/Tests/main/zhangqifan.jpg)  
 [Qifan Zhang](https://github.com/houlresearch/Tests/blob/main/QIFAN%20ZHANG.md)  
