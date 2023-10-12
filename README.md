@@ -17,7 +17,10 @@
 ---
 [Qifan Zhang](https://github.com/houlresearch/MEMBERS/blob/main/QIFAN%20ZHANG.md)
 ---
+![Hongyi Sun](https://raw.githubusercontent.com/houlresearch/Tests/main/sunhongyi.png)
 [Hongyi Sun](https://github.com/houlresearch/MEMBERS/blob/main/HONGYI%20SUN.md)
+Class of 2022.  
+I am interested in analyzing omics data, including genomics, transcriptomics, and proteomics, using statistical methods. Furthermore, I aspire to integrate machine learning techniques into statistical analysis.  
 ---
 [Roulan Jiang](https://github.com/houlresearch/MEMBERS/blob/main/ROULAN%20JIANG.md)
 ---
