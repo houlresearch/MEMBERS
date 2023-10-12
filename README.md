@@ -1,5 +1,5 @@
 # MEMBERS
-##[Lin Hou](https://github.com/houlresearch/MEMBERS/blob/main/LIN%20HOU.md)
+[Lin Hou](https://github.com/houlresearch/MEMBERS/blob/main/LIN%20HOU.md)
 ---
 [Hanmin Guo](https://github.com/houlresearch/MEMBERS/blob/main/HANMIN%20GUO.md)
 ---
@@ -7,7 +7,10 @@
 ---
 [Bo Yu](https://github.com/houlresearch/MEMBERS/blob/main/BO%20YU.md)
 ---
-[Shuang Song](https://github.com/houlresearch/MEMBERS/blob/main/SHUANG%20SONG.md)
+![Shuang Song](https://raw.githubusercontent.com/houlresearch/Tests/main/songshuang.jpg)  
+[Shuang Song](https://github.com/houlresearch/MEMBERS/blob/main/SHUANG%20SONG.md)  
+Class of 2019.  
+I am interested in statistics, statistical genetics and genomics, Bayesian methodology, polygenic risk prediction and heritability estimation.  
 ---
 [Dongyu Li](https://github.com/houlresearch/MEMBERS/blob/main/DONGYU%20LI.md)
 ---
