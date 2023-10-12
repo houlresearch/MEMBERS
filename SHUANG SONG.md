@@ -15,3 +15,7 @@ I am interested in statistics, statistical genetics and genomics, Bayesian metho
 + Shan N, Xie Y, Song S, et al. A novel transcriptional risk score for risk prediction of complex human diseases[J]. Genetic Epidemiology, 2021.  
 + Jiang W, Zhang X, Li S, Song S, et al. An unbiased kinship estimation method for genetic data analysis[J]. BMC Bioinformatics, 2022, 23(1): 1-22.  
 + Ren Z, Li R, Zhang T, Chen B, Wang C, Li M, Song S, et al. Reduction of human mobility matters during early covid-19 outbreaks: Evidence from India, Japan and China[J]. International Journal of Environmental Research and Public Health, 2021, 18(6): 2826.  
+## Hobbies
+Piano, Painting, Photography, Sports  
+## Google scholar  
+<https://scholar.google.com/citations?hl=zh-CN&user=5-3t3mYAAAAJ>
