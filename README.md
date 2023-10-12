@@ -3,6 +3,7 @@
 ---
 [Hanmin Guo](https://github.com/houlresearch/MEMBERS/blob/main/HANMIN%20GUO.md)  
 Graduated in 2022.  
+I am interested in developing statistical and machine learning approaches to analyze complex data including genetics, gemomics, and health data.  
 ---
 ![Nayang Shan](https://raw.githubusercontent.com/houlresearch/Tests/main/shannayang.jpg)  
 [Nayang Shan](https://github.com/houlresearch/MEMBERS/blob/main/NAYANG%20SHAN.md)  
