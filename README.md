@@ -10,3 +10,18 @@
 [Shuang Song](https://github.com/houlresearch/MEMBERS/blob/main/SHUANG%20SONG.md)
 ---
 [Dongyu Li](https://github.com/houlresearch/MEMBERS/blob/main/DONGYU%20LI.md)
+---
+[Yao Lu](https://github.com/houlresearch/MEMBERS/blob/main/YAO%20LU.md)
+---
+[Zichu Fu](https://github.com/houlresearch/MEMBERS/blob/main/ZICHU%20FU.md)
+---
+[Qifan Zhang](https://github.com/houlresearch/MEMBERS/blob/main/QIFAN%20ZHANG.md)
+---
+[Hongyi Sun](https://github.com/houlresearch/MEMBERS/blob/main/HONGYI%20SUN.md)
+---
+[Roulan Jiang](https://github.com/houlresearch/MEMBERS/blob/main/ROULAN%20JIANG.md)
+---
+[Yiyin Zhang](https://github.com/houlresearch/MEMBERS/blob/main/YIYIN%20ZHANG.md)
+---
+[Zizhan Gao](https://github.com/houlresearch/MEMBERS/blob/main/ZIZHAN%20GAO.md)
+---
