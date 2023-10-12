@@ -18,6 +18,7 @@ I am interested in statistics, statistical genetics and genomics, Bayesian metho
 ---
 ![Zichu Fu](https://raw.githubusercontent.com/houlresearch/Tests/main/fuzichu.jpg)  
 [Zichu Fu](https://github.com/houlresearch/MEMBERS/blob/main/ZICHU%20FU.md)  
+Class of 2021.  
 ---
 [Qifan Zhang](https://github.com/houlresearch/MEMBERS/blob/main/QIFAN%20ZHANG.md)  
 ---
@@ -28,7 +29,10 @@ I am interested in analyzing omics data, including genomics, transcriptomics, an
 ---
 [Roulan Jiang](https://github.com/houlresearch/MEMBERS/blob/main/ROULAN%20JIANG.md)
 ---
-[Yiyin Zhang](https://github.com/houlresearch/MEMBERS/blob/main/YIYIN%20ZHANG.md)
+![Yiyin Zhang](https://raw.githubusercontent.com/houlresearch/Tests/main/zhangyiyin.jpg)  
+[Yiyin Zhang](https://github.com/houlresearch/MEMBERS/blob/main/YIYIN%20ZHANG.md)  
+Class of 2023.  
+I am interested in bioinformatics and biostatistics.  
 ---
 [Zizhan Gao](https://github.com/houlresearch/MEMBERS/blob/main/ZIZHAN%20GAO.md)
 ---
