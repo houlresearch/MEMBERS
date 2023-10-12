@@ -26,6 +26,7 @@ Class of 2021.
 [Zichu Fu](https://github.com/houlresearch/MEMBERS/blob/main/ZICHU%20FU.md)  
 Class of 2021.  
 ---
+![Qifan Zhang](https://raw.githubusercontent.com/houlresearch/Tests/main/zhangqifan.jpg)  
 [Qifan Zhang](https://github.com/houlresearch/MEMBERS/blob/main/QIFAN%20ZHANG.md)  
 Research assistant since 2022.  
 I am interested in bioinformatics and biostatistics.  
