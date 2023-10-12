@@ -3,7 +3,7 @@ class of 2019.
 ***
 **self introduction:**  
 I am interested in statistics, statistical genetics and genomics, Bayesian methodology, polygenic risk prediction and heritability estimation.  
-## Publications
+### Publications
 + Song S, Jiang W, Zhang Y, et al. Leveraging LD eigenvalue regression to improve the estimation of SNP heritability and confounding inflation[J]. The American Journal of Human Genetics, 2022.  
 + Song S, Hou L, Liu J S. A data-adaptive Bayesian regression approach for polygenic risk prediction[J]. Bioinformatics, 2022.  
 + Song S, Shan N, Wang G, et al. Openness weighted association studies: leveraging personal genome information to prioritize non-coding variants[J]. Bioinformatics, 2021.  
@@ -15,7 +15,7 @@ I am interested in statistics, statistical genetics and genomics, Bayesian metho
 + Shan N, Xie Y, Song S, et al. A novel transcriptional risk score for risk prediction of complex human diseases[J]. Genetic Epidemiology, 2021.  
 + Jiang W, Zhang X, Li S, Song S, et al. An unbiased kinship estimation method for genetic data analysis[J]. BMC Bioinformatics, 2022, 23(1): 1-22.  
 + Ren Z, Li R, Zhang T, Chen B, Wang C, Li M, Song S, et al. Reduction of human mobility matters during early covid-19 outbreaks: Evidence from India, Japan and China[J]. International Journal of Environmental Research and Public Health, 2021, 18(6): 2826.  
-## Hobbies
+### Hobbies
 Piano, Painting, Photography, Sports  
-## Google scholar  
+### Google scholar  
 <https://scholar.google.com/citations?hl=zh-CN&user=5-3t3mYAAAAJ>
