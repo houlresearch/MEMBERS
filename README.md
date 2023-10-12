@@ -7,6 +7,7 @@ Graduated in 2022.
 [Nayang Shan](https://github.com/houlresearch/MEMBERS/blob/main/NAYANG%20SHAN.md)  
 Graduated in 2022.
 ---
+![Bo Yu](https://raw.githubusercontent.com/houlresearch/Tests/main/yubo.jpg)  
 [Bo Yu](https://github.com/houlresearch/MEMBERS/blob/main/BO%20YU.md)  
 Graduated in 2023.
 ---
