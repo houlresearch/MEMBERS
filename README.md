@@ -47,5 +47,6 @@ Class of 2022.
 Class of 2023.  
 I am interested in bioinformatics and biostatistics.  
 ---
-[Zizhan Gao](https://github.com/houlresearch/MEMBERS/blob/main/ZIZHAN%20GAO.md)
+[Zizhan Gao](https://github.com/houlresearch/MEMBERS/blob/main/ZIZHAN%20GAO.md)  
+Class of 2024.  
 ---
