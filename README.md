@@ -13,6 +13,7 @@
 ---
 [Yao Lu](https://github.com/houlresearch/MEMBERS/blob/main/YAO%20LU.md)  
 ---
+![Zichu Fu](https://raw.githubusercontent.com/houlresearch/Tests/main/fuzichu.jpg)  
 [Zichu Fu](https://github.com/houlresearch/MEMBERS/blob/main/ZICHU%20FU.md)  
 ---
 [Qifan Zhang](https://github.com/houlresearch/MEMBERS/blob/main/QIFAN%20ZHANG.md)  
