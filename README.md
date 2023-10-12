@@ -4,8 +4,10 @@
 [Hanmin Guo](https://github.com/houlresearch/MEMBERS/blob/main/HANMIN%20GUO.md)  
 Graduated in 2022.  
 ---
+![Nayang Shan](https://raw.githubusercontent.com/houlresearch/Tests/main/shannayang.jpg)  
 [Nayang Shan](https://github.com/houlresearch/MEMBERS/blob/main/NAYANG%20SHAN.md)  
-Graduated in 2022.
+Graduated in 2022.  
+I am interested in biostatistics, bioinformatics and single-cell RNA sequencing data analysis.  
 ---
 ![Bo Yu](https://raw.githubusercontent.com/houlresearch/Tests/main/yubo.jpg)  
 [Bo Yu](https://github.com/houlresearch/MEMBERS/blob/main/BO%20YU.md)  
