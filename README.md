@@ -40,16 +40,17 @@ I am interested in bioinformatics and biostatistics.
 PhD student. Class of 2024.  
 ---
 [Hanmin Guo](https://github.com/houlresearch/Tests/blob/main/HANMIN%20GUO.md)  
-Previous PhD student. Graduated in 2022.  
+Former PhD student. Graduated in 2022.  
+Current Position: Postdoctoral scholar at Department of Psychiatry and Behavioral Sciences, Stanford University (Supervised by Prof. Wing Hung Wong and Prof. Alexander Eckehart Urban).  
 I am interested in developing statistical and machine learning approaches to analyze complex data including genetics, gemomics, and health data.  
 ---
 ![Nayang Shan](https://raw.githubusercontent.com/houlresearch/Tests/main/shannayang.jpg)  
 [Nayang Shan](https://github.com/houlresearch/Tests/blob/main/NAYANG%20SHAN.md)  
-Previous PhD student. Graduated in 2022.  
+Former PhD student. Graduated in 2022.  
 Current position: assistant professor, School of Statistics, Capital University of Economics and Business.  
 I am interested in biostatistics, bioinformatics and single-cell RNA sequencing data analysis.  
 ---
 ![Bo Yu](https://raw.githubusercontent.com/houlresearch/Tests/main/yubo.jpg)  
 [Bo Yu](https://github.com/houlresearch/Tests/blob/main/BO%20YU.md)  
-Previous PhD student. Graduated in 2023.  
+Former PhD student. Graduated in 2023.  
 ---
