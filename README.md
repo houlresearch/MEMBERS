@@ -19,6 +19,7 @@ Graduated in 2023.
 Class of 2019.  
 I am interested in statistics, statistical genetics and genomics, Bayesian methodology, polygenic risk prediction and heritability estimation.  
 ---
+![Dongyu Li](https://raw.githubusercontent.com/houlresearch/Tests/main/lidongyu.jpg)  
 [Dongyu Li](https://github.com/houlresearch/Tests/blob/main/DONGYU%20LI.md)  
 Class of 2020.  
 ---
