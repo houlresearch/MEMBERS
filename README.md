@@ -54,4 +54,6 @@ I am interested in biostatistics, bioinformatics and single-cell RNA sequencing 
 ![Bo Yu](https://raw.githubusercontent.com/houlresearch/Tests/main/yubo.jpg)  
 [Bo Yu](https://github.com/houlresearch/Tests/blob/main/BO%20YU.md)  
 Former PhD student. Graduated in 2023.  
+Current position: Postdoc at Fred Hutchinson Cancer Center.  
+I'm interested in the genetic architecture of complex diseases and RNA structure modelling.  
 ---
