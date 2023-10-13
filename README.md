@@ -39,6 +39,7 @@ I am interested in bioinformatics and biostatistics.
 [Zizhan Gao](https://github.com/houlresearch/Tests/blob/main/ZIZHAN%20GAO.md)  
 PhD student. Class of 2024.  
 ---
+![Hanmin Guo](https://raw.githubusercontent.com/houlresearch/Tests/main/guohanmin.jpg)  
 [Hanmin Guo](https://github.com/houlresearch/Tests/blob/main/HANMIN%20GUO.md)  
 Former PhD student. Graduated in 2022.  
 Current Position: Postdoctoral scholar at Department of Psychiatry and Behavioral Sciences, Stanford University (Supervised by Prof. Wing Hung Wong and Prof. Alexander Eckehart Urban).  
